@@ -1,0 +1,8 @@
+# Build artifacts
+/build/
+/dist/
+
+# Private Makefiles and temporary files
+/nbproject/Makefile-*
+/nbproject/Package-*
+/nbproject/private/
