@@ -12,6 +12,8 @@
                 <sourceRootElem>libosdp/src</sourceRootElem>
                 <sourceRootElem>libosdp/utils</sourceRootElem>
                 <sourceRootElem>libosdp/include</sourceRootElem>
+                <sourceRootElem>../../src/libosdp/utils/src</sourceRootElem>
+                <sourceRootElem>../../src/libosdp/src</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

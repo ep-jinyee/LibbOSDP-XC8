@@ -2,6 +2,10 @@
 /build/
 /dist/
 
+*.log
+*.inx
+.vscode
+
 # Private Makefiles and temporary files
 /nbproject/Makefile-*
 /nbproject/Package-*
